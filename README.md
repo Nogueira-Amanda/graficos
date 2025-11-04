@@ -20,5 +20,5 @@ Esse gráfico relaciona o preço unitário e a quantidade em estoque.
 
 # Como executar:
 1. Tenha uma ide que rode python;
-2. Instale a extenção pip instal matplotlib;
+2. Instale a extenção pip install matplotlib;
 3. Execute o arquivo.
